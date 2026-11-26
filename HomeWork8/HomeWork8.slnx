@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Src/" />
+  <Folder Name="/Src/Core/">
+    <Project Path="D:/Daneshkar_ASP.Net_BC1405/Daneshkar_BC1405_HomeWork_8/HomeWork8-EfCore/HomeWork8/Src/Core/Application/Application.csproj" />
+    <Project Path="D:/Daneshkar_ASP.Net_BC1405/Daneshkar_BC1405_HomeWork_8/HomeWork8-EfCore/HomeWork8/Src/Core/Domain/Domain.csproj" />
+  </Folder>
+  <Folder Name="/Src/Infrastructure/">
+    <Project Path="D:/Daneshkar_ASP.Net_BC1405/Daneshkar_BC1405_HomeWork_8/HomeWork8-EfCore/HomeWork8/Src/Infrastructure/Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Src/Presentation/">
+    <Project Path="D:/Daneshkar_ASP.Net_BC1405/Daneshkar_BC1405_HomeWork_8/HomeWork8-EfCore/HomeWork8/Src/Presentation/WebApi/WebApi.csproj" />
+  </Folder>
+</Solution>

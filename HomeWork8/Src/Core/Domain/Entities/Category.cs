@@ -1,0 +1,14 @@
+﻿namespace HomeWork8.Domain.Entities;
+
+public class Category
+{
+    public int Id { get; set; }
+
+    public string Name { get; set; } = null!;
+
+    public string? Description { get; set; }
+
+    public ICollection<BookCategory> BookCategories { get; set; }
+        = new List<BookCategory>();
+}
+
