@@ -427,3 +427,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/HomeWork8/WebApi
+/HomeWork8/HomeWork8.slnx.bak
+/.gitignore
+/.gitignore
